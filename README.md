@@ -32,16 +32,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Flex
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+I now know that I can use both of these properties together to overlay the image with colours.
 
 ```css
-I now know that I can use both of these properties together to overlay the image with colours. .container {
+ .container {
   background-image: linear-gradient(rgba(170, 92, 219, 0.5), rgba(170, 92, 219, 0.5)), url(images/image-header-desktop.jpg);
 }
 ```
